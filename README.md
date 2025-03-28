@@ -1,4 +1,4 @@
-# Voicesmith
+# Voicesmithr
 
 Voicesmith is a voice changer app for Android OS. Internally it utilizes the [stftPitchShift](https://github.com/jurihock/stftPitchShift) engine to perform pitch and timbre shifting in real time.
 
